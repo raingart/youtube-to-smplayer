@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#!!!Script must be run as sudo, not root!!!
+#chmod +x i.sh
  
 ### Print total arguments and their values
  
