@@ -1,4 +1,4 @@
-# youtube_to_smplayer
+# youtube to smplayer
 This method has been tested only in Linux!
 
 ### How to work:
